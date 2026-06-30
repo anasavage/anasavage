@@ -30,7 +30,7 @@ Real-time YouTube trending video analysis pipeline with AI insights
 
 ###  Vogue Search Engine
 A search engine built from scratch featuring a web crawler, inverted index, and TF-IDF ranking algorithm on Vogue.com content, built with Python and Streamlit.
-- [🔗 Live App](https://vogue-search.streamlit.app/) | [📂 GitHub](https://github.com/anasavage/vogue-search)
+- [🔗 Live App](https://ana-vogue-search.streamlit.app/) | [📂 GitHub](https://github.com/anasavage/vogue-search)
 
 ## 📊 GitHub Stats
 ![Ana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anasavage&show_icons=true&theme=radical)
