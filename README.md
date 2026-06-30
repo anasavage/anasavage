@@ -14,19 +14,23 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🌸 Skincare Recommender + AI Coach
+###  Skincare Recommender + AI Coach
 AI-powered skincare product recommendation engine with Claude AI chatbot
 - Built with Python, Pandas, Streamlit, and Anthropic Claude API
 - Trained on 2,400+ real Sephora products
 - [🔗 Live App](https://skincare-recommender-oqndvrzucahi7ed76er84e.streamlit.app) | [📂 GitHub](https://github.com/anasavage/skincare-recommender)
 
-### 🎥 YouTube Trend Analyzer
+###  YouTube Trend Analyzer
 Real-time YouTube trending video analysis pipeline with AI insights
 - Built with Python, YouTube Data API, SQLite, and Claude AI
 - Fetches live data, stores in database, generates AI trend reports
 - [🔗 Live App](https://youtube-trend-analyzer-ekclmmk94om8g2dpcjgnue.streamlit.app) | [📂 GitHub](https://github.com/anasavage/youtube-trend-analyzer)
+
+###  Vogue Search Engine
+A search engine built from scratch featuring a web crawler, inverted index, and TF-IDF ranking algorithm on Vogue.com content, built with Python and Streamlit.
+- [🔗 Live App](your-live-url-here) | [📂 GitHub](https://github.com/anasavage/vogue-search)
 
 ## 📊 GitHub Stats
 ![Ana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anasavage&show_icons=true&theme=radical)
